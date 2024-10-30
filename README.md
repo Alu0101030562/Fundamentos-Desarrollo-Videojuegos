@@ -13,3 +13,9 @@
 - [Scripts - Movimiento Rectilíneo](https://github.com/Alu0101030562/Scripts-MovimientoRectilineo1)
 
 - [Scripts - Eventos](https://github.com/Alu0101030562/Scripts-Eventos)
+
+- [Introducción a la programación de juegos 2D. Sprites.](https://github.com/Alu0101030562/Juegos2D-Sprites)
+
+- [Introducción a la programación de juegos 2D. Mapa - Físicas.](https://github.com/Alu0101030562/Juegos2D-Mapa-Fisicas)
+
+- [Introducción a la programación de juegos 2D. Cámara.](https://github.com/Alu0101030562/Juegos2D-Camara)
