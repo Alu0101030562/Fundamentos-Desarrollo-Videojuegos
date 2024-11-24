@@ -19,3 +19,7 @@
 - [Introducción a la programación de juegos 2D. Mapa - Físicas.](https://github.com/Alu0101030562/Juegos2D-Mapa-Fisicas)
 
 - [Introducción a la programación de juegos 2D. Cámara.](https://github.com/Alu0101030562/Juegos2D-Camara)
+
+- [Introducción a la programación de juegos 2D. Técnicas](https://github.com/Alu0101030562/Juegos2D-Tecnicas)
+
+- [Sonido en Unity](https://github.com/Alu0101030562/SonidosEnUnity)
